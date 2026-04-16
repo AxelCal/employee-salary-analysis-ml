@@ -1,0 +1,10 @@
+REPORTE DE ENTRENAMIENTO
+-------------------------
+Métrica MAE: 310.27
+Métrica R2: 0.36
+
+Importancia de variables (Coeficientes):
+edad: 58.38
+departamento_IT: -72.34
+departamento_Marketing: -118.02
+departamento_Ventas: 190.36
